@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ReporteCRC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReporteCRC_jar</output-path>
+    <root id="archive" name="ReporteCRC.jar">
+      <element id="module-output" name="ReporteCRC" />
+    </root>
+  </artifact>
+</component>
